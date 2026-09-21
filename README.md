@@ -1,5 +1,5 @@
 # Fundamentos-da-IA-Mordena
-epositório dedicado ao estudo dos pilares da Inteligência Artificial moderna, cobrindo desde a aprendizagem automática tradicional até à arquitetura de Grandes Modelos de Linguagem (LLMs) e Agentes Autónomos.
+Conclusão dos Estudos sobre IA moderna, LLMS e Agentes de IA
 
 # Fundamentos da IA Moderna: ML, LLMs, IA Generativa e Agentes - DIO
 
